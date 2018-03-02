@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Jura');
+
+.container-fluid {
+  font-family: 'Jura', sans-serif;
+  color: white;
+  font-size: 50px;
+  background: linear-gradient(to right,#1f0101 ,#680101,#1f0101);
+}
+
+.row .col,.col-8,.col-4,.col-3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row .col:hover, .col-8:hover, .col-4:hover, .col-3:hover{
+  background-color: rgba(255, 255, 255,0.25);
+}
+h1,h2 {
+  margin: 1px;
+  color:#57adf3;
+  font-family: 'Jura', sans-serif;
+}
+h1 {
+  font-size:60px;
+  color:white;
+}
+.window{
+  background: linear-gradient(to right,#000 ,#680101,#000);
+  min-height:17vh;
+}
+.window2{
+  background-color: #021e1d; 
+  background: linear-gradient(to right,#000 ,#680101,#000);
+  height:5vh;
+}
+.signature {
+  font-size: 15px;
+  margin: auto;
+}
