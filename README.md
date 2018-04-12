@@ -7,7 +7,7 @@ Contributors: Efosa Ogiesoba
 
 # Purpose
 
-Everyday calculator built using HTML5, CCS3, JavaScript, jQuery, & Bootstrap 4.
+Everyday calculator built using HTML5, CSS3, JavaScript, jQuery, & Bootstrap 4.
 
 # Screenshot - 1 - Javascript Calculator
 
